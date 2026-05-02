@@ -112,6 +112,6 @@ Comparative experiment run for 15 rounds across all three methods with identical
 
 ## 7. Repository
 
-**GitHub:** *(Add link after upload)*  
+**GitHub:** https://github.com/zeeshami/uav-fl-authentication  
 **Branch:** `main`  
 **Reproducibility:** `cd fl_simulation && python main.py --compare`
