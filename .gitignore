@@ -1,3 +1,6 @@
+# ── Unrelated nested repos ────────────────────────────────────
+DISTRIBUTED_SYSTEM/
+
 # ── Node / Frontend ───────────────────────────────────────────
 node_modules/
 dist/
