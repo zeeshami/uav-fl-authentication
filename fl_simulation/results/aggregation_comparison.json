@@ -1,0 +1,23 @@
+{
+  "fedavg": {
+    "final_accuracy": 0.987,
+    "final_f1": 0.9762,
+    "final_loss": 0.1686,
+    "final_precision": 1.0,
+    "final_recall": 0.9546
+  },
+  "krum": {
+    "final_accuracy": 0.998,
+    "final_f1": 0.9966,
+    "final_loss": 0.1399,
+    "final_precision": 1.0,
+    "final_recall": 0.9933
+  },
+  "median": {
+    "final_accuracy": 0.998,
+    "final_f1": 0.9966,
+    "final_loss": 0.1407,
+    "final_precision": 1.0,
+    "final_recall": 0.9933
+  }
+}
